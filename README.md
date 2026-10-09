@@ -199,3 +199,6 @@ python3 install_ikatago.py --work /root/work
 此前 RTX 5090 / Linux / CUDA 13.2 / cuDNN 9.24.1 的同机单轮复核：NN eval/s **3145 → 3513**，B16 整批平均延迟 **5.086 → 4.555 ms**，48 线程 visits/s **6070 → 6568**。这不是所有模型或平台的保证。精度、测试条件和本次原版镜像兼容性记录见 [验证说明](VALIDATION.md)。
 
 源码构建见 [BUILD.md](BUILD.md)。上游项目：[lightvector/KataGo](https://github.com/lightvector/KataGo)。许可证见 `LICENSE` 和 `licenses/`；源码保留各依赖的原始许可证。
+
+
+许可证检查与第三方分发边界见 [LICENSE_AUDIT.md](LICENSE_AUDIT.md)。再次分发时请保留 `LICENSE`、`CONTRIBUTORS`、`licenses/` 和 `THIRD_PARTY_NOTICES.txt`。

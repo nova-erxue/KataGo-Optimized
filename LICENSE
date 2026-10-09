@@ -10,6 +10,9 @@ license within that file.
 Some parts of python/katago/model_pytorch.py and a few other files, where noted, are modifications
 of code from other open source authors.
 
+cpp/neuralnet/cudaffnregisterepilogue.cuh adapts CUTLASS DualGemm code and
+retains NVIDIA's BSD-3-Clause notice in that file; see also licenses/cutlass/LICENSE.txt.
+
 Aside from the above, the license for all OTHER content in this repo is as follows:
 
 ----------------------------------------
