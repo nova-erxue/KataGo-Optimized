@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "gpuInference": false,
+  "systemPackagesInstalled": false,
+  "upstreamRegistration": false,
+  "notebookFlow": "fixture execution with all three notebooks",
+  "threeStagesSeparated": true,
+  "defaultModelSelected": true,
+  "filesInExpectedDirectories": true,
+  "accountOnlyInStart": true,
+  "repeatRunPreservesState": true,
+  "notebooksClean": true,
+  "liveOfficialModelDownload": {
+    "name": "kata1-tf3-b11c768-s11003M-d5973M-7gres.bin.gz",
+    "bytes": 262039869,
+    "sha256": "93bdb63a3bfae4a70db0cb5265287495ecfc10b1ba1cc6814feeba1cdf055871",
+    "gzipIntegrityPassed": true
+  }
+}

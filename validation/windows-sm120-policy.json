@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "exitCode": 3221226505,
+  "testedGPU": "GeForce RTX 4060 Laptop GPU",
+  "expected": "Reject compute capability other than 12.0",
+  "engineSha256": "8bfb3fe9f29a623d7f1a1c8782d31bc20eb80e401ba5104c98228541ee8dc1c5"
+}

@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "realServerHelp": true,
+  "gpuInference": false,
+  "upstreamConnection": false,
+  "distributionMode": "direct upstream download during installation",
+  "notebookSyntaxAndCleanOutputs": true,
+  "noRedistributedServerOrToken": true,
+  "archiveChecksums": true,
+  "freshDirectoryDeployment": true,
+  "upstreamDownloadHashVerified": true,
+  "existingDirectoryPreserved": true,
+  "failedDeploymentRollbackAndLogs": true,
+  "uncheckedEngineCannotStart": true,
+  "fixtureProcessLifecycle": true,
+  "stalePidIgnored": true,
+  "changedDownloadRejected": true,
+  "configurationDiagnostics": true
+}

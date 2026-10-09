@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "builds": [
+    {
+      "platform": "linux",
+      "binarySha256": "4d8d1556558fdb2ac7abc5eee7c777619697f46c1e2985d70f959f52806b2f06",
+      "computeCapability": "12.0",
+      "cutlassEnabled": true,
+      "cudnnVersion": 92401,
+      "sm120Only": true
+    },
+    {
+      "platform": "windows",
+      "binarySha256": "8bfb3fe9f29a623d7f1a1c8782d31bc20eb80e401ba5104c98228541ee8dc1c5",
+      "computeCapability": "12.0",
+      "cutlassEnabled": false,
+      "cudnnVersion": 92401,
+      "sm120Only": true
+    }
+  ],
+  "sourceFiles": {
+    "cpp/neuralnet/cudaarchitecture.h": "b6957207396fe54afd858052be415ac77c806bbe87217b2df99f24235da18b0f",
+    "cpp/neuralnet/cudaandrocmbackend.inc": "0f4ede1d75afa1556d0de6881eb071990c82a13ee850c6af1215af733eb3afe4",
+    "cpp/CMakeLists.txt": "ebd9a5fa40abc188729da402ea4ba89b82ef6ab798423e244972586ee71a4e26"
+  }
+}

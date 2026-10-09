@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-07",
+  "accuracy": [
+    {
+      "model": "b11-s11003",
+      "sha256": "93bdb63a3bfae4a70db0cb5265287495ecfc10b1ba1cc6814feeba1cdf055871",
+      "positions": 669,
+      "bitExact": true
+    },
+    {
+      "model": "b11-s12002",
+      "sha256": "4a6312e80faadee7b7dd28689a2e87a1efb4640c10132f16290da7a17b4c6d9e",
+      "positions": 669,
+      "bitExact": true
+    },
+    {
+      "model": "b4c256h4nbttflrs-fson-silu-rsnh",
+      "sha256": "d10c966976a31fa7cba6dd625799a12886af06b0503a2a2a98a37f74e5cbcf6e",
+      "positions": 669,
+      "bitExact": true
+    },
+    {
+      "model": "b7c96h3tfrs-test5-cnorm",
+      "sha256": "e0c11d1d2532af0b89792605e4d9edcca15bf6a0589bf28b967e6358277941b8",
+      "positions": 669,
+      "bitExact": true
+    },
+    {
+      "model": "b7c96h6kv3qk32v16tflrs-fson-bnh",
+      "sha256": "3e56eedcda8f997dcdc0d18324fa8390ea10e3dd687cbf5d0d4ed66674d3f74f",
+      "positions": 669,
+      "bitExact": true
+    }
+  ]
+}

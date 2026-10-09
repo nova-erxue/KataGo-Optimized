@@ -1,0 +1,308 @@
+{
+  "schema": "katago-fixed-raw-comparison-v1",
+  "positions": 669,
+  "inputIdentityMatches": true,
+  "allFinite": true,
+  "exactFloat32": true,
+  "accuracyVerdict": "not evaluated; native accuracy test and reference error review required",
+  "fields": {
+    "whiteWinProb": {
+      "count": 669,
+      "finiteComparableCount": 669,
+      "nonfinite": {
+        "baseline": 0,
+        "candidate": 0,
+        "reference": 0
+      },
+      "nonfiniteExamples": [],
+      "differentFloat32Count": 0,
+      "meanAbs": 0.0,
+      "meanSigned": 0.0,
+      "rmse": 0.0,
+      "maxAbs": 0.0,
+      "worst": {
+        "absoluteError": 0.0,
+        "position": 0,
+        "element": 0,
+        "baseline": -0.20165038108825684,
+        "candidate": -0.20165038108825684
+      },
+      "baselineReferenceCount": 669,
+      "baselineReferenceRMSE": 0.004425692830056105,
+      "candidateReferenceCount": 669,
+      "candidateReferenceRMSE": 0.004425692830056105,
+      "referenceRMSEChange": 0.0
+    },
+    "whiteLossProb": {
+      "count": 669,
+      "finiteComparableCount": 669,
+      "nonfinite": {
+        "baseline": 0,
+        "candidate": 0,
+        "reference": 0
+      },
+      "nonfiniteExamples": [],
+      "differentFloat32Count": 0,
+      "meanAbs": 0.0,
+      "meanSigned": 0.0,
+      "rmse": 0.0,
+      "maxAbs": 0.0,
+      "worst": {
+        "absoluteError": 0.0,
+        "position": 0,
+        "element": 0,
+        "baseline": 0.4428258538246155,
+        "candidate": 0.4428258538246155
+      },
+      "baselineReferenceCount": 669,
+      "baselineReferenceRMSE": 0.004351391001955821,
+      "candidateReferenceCount": 669,
+      "candidateReferenceRMSE": 0.004351391001955821,
+      "referenceRMSEChange": 0.0
+    },
+    "whiteNoResultProb": {
+      "count": 669,
+      "finiteComparableCount": 669,
+      "nonfinite": {
+        "baseline": 0,
+        "candidate": 0,
+        "reference": 0
+      },
+      "nonfiniteExamples": [],
+      "differentFloat32Count": 0,
+      "meanAbs": 0.0,
+      "meanSigned": 0.0,
+      "rmse": 0.0,
+      "maxAbs": 0.0,
+      "worst": {
+        "absoluteError": 0.0,
+        "position": 0,
+        "element": 0,
+        "baseline": -15.337656021118164,
+        "candidate": -15.337656021118164
+      },
+      "baselineReferenceCount": 669,
+      "baselineReferenceRMSE": 0.011570419644634431,
+      "candidateReferenceCount": 669,
+      "candidateReferenceRMSE": 0.011570419644634431,
+      "referenceRMSEChange": 0.0
+    },
+    "whiteScoreMean": {
+      "count": 669,
+      "finiteComparableCount": 669,
+      "nonfinite": {
+        "baseline": 0,
+        "candidate": 0,
+        "reference": 0
+      },
+      "nonfiniteExamples": [],
+      "differentFloat32Count": 0,
+      "meanAbs": 0.0,
+      "meanSigned": 0.0,
+      "rmse": 0.0,
+      "maxAbs": 0.0,
+      "worst": {
+        "absoluteError": 0.0,
+        "position": 0,
+        "element": 0,
+        "baseline": -0.08737100660800934,
+        "candidate": -0.08737100660800934
+      },
+      "baselineReferenceCount": 669,
+      "baselineReferenceRMSE": 0.0017851235472554853,
+      "candidateReferenceCount": 669,
+      "candidateReferenceRMSE": 0.0017851235472554853,
+      "referenceRMSEChange": 0.0
+    },
+    "whiteScoreMeanSq": {
+      "count": 669,
+      "finiteComparableCount": 669,
+      "nonfinite": {
+        "baseline": 0,
+        "candidate": 0,
+        "reference": 0
+      },
+      "nonfiniteExamples": [],
+      "differentFloat32Count": 0,
+      "meanAbs": 0.0,
+      "meanSigned": 0.0,
+      "rmse": 0.0,
+      "maxAbs": 0.0,
+      "worst": {
+        "absoluteError": 0.0,
+        "position": 0,
+        "element": 0,
+        "baseline": -0.03383627533912659,
+        "candidate": -0.03383627533912659
+      },
+      "baselineReferenceCount": 669,
+      "baselineReferenceRMSE": 0.0010519079737157987,
+      "candidateReferenceCount": 669,
+      "candidateReferenceRMSE": 0.0010519079737157987,
+      "referenceRMSEChange": 0.0
+    },
+    "whiteLead": {
+      "count": 669,
+      "finiteComparableCount": 669,
+      "nonfinite": {
+        "baseline": 0,
+        "candidate": 0,
+        "reference": 0
+      },
+      "nonfiniteExamples": [],
+      "differentFloat32Count": 0,
+      "meanAbs": 0.0,
+      "meanSigned": 0.0,
+      "rmse": 0.0,
+      "maxAbs": 0.0,
+      "worst": {
+        "absoluteError": 0.0,
+        "position": 0,
+        "element": 0,
+        "baseline": -0.04283634200692177,
+        "candidate": -0.04283634200692177
+      },
+      "baselineReferenceCount": 669,
+      "baselineReferenceRMSE": 0.0013438941659982466,
+      "candidateReferenceCount": 669,
+      "candidateReferenceRMSE": 0.0013438941659982466,
+      "referenceRMSEChange": 0.0
+    },
+    "varTimeLeft": {
+      "count": 669,
+      "finiteComparableCount": 669,
+      "nonfinite": {
+        "baseline": 0,
+        "candidate": 0,
+        "reference": 0
+      },
+      "nonfiniteExamples": [],
+      "differentFloat32Count": 0,
+      "meanAbs": 0.0,
+      "meanSigned": 0.0,
+      "rmse": 0.0,
+      "maxAbs": 0.0,
+      "worst": {
+        "absoluteError": 0.0,
+        "position": 0,
+        "element": 0,
+        "baseline": 1.0898170471191406,
+        "candidate": 1.0898170471191406
+      },
+      "baselineReferenceCount": 669,
+      "baselineReferenceRMSE": 0.004406495902269187,
+      "candidateReferenceCount": 669,
+      "candidateReferenceRMSE": 0.004406495902269187,
+      "referenceRMSEChange": 0.0
+    },
+    "shorttermWinlossError": {
+      "count": 669,
+      "finiteComparableCount": 669,
+      "nonfinite": {
+        "baseline": 0,
+        "candidate": 0,
+        "reference": 0
+      },
+      "nonfiniteExamples": [],
+      "differentFloat32Count": 0,
+      "meanAbs": 0.0,
+      "meanSigned": 0.0,
+      "rmse": 0.0,
+      "maxAbs": 0.0,
+      "worst": {
+        "absoluteError": 0.0,
+        "position": 0,
+        "element": 0,
+        "baseline": -5.505987167358398,
+        "candidate": -5.505987167358398
+      },
+      "baselineReferenceCount": 669,
+      "baselineReferenceRMSE": 0.008297615866168484,
+      "candidateReferenceCount": 669,
+      "candidateReferenceRMSE": 0.008297615866168484,
+      "referenceRMSEChange": 0.0
+    },
+    "shorttermScoreError": {
+      "count": 669,
+      "finiteComparableCount": 669,
+      "nonfinite": {
+        "baseline": 0,
+        "candidate": 0,
+        "reference": 0
+      },
+      "nonfiniteExamples": [],
+      "differentFloat32Count": 0,
+      "meanAbs": 0.0,
+      "meanSigned": 0.0,
+      "rmse": 0.0,
+      "maxAbs": 0.0,
+      "worst": {
+        "absoluteError": 0.0,
+        "position": 0,
+        "element": 0,
+        "baseline": -7.87043571472168,
+        "candidate": -7.87043571472168
+      },
+      "baselineReferenceCount": 669,
+      "baselineReferenceRMSE": 0.003886817855037726,
+      "candidateReferenceCount": 669,
+      "candidateReferenceRMSE": 0.003886817855037726,
+      "referenceRMSEChange": 0.0
+    },
+    "policyProbs": {
+      "count": 242178,
+      "finiteComparableCount": 242178,
+      "nonfinite": {
+        "baseline": 0,
+        "candidate": 0,
+        "reference": 0
+      },
+      "nonfiniteExamples": [],
+      "differentFloat32Count": 0,
+      "meanAbs": 0.0,
+      "meanSigned": 0.0,
+      "rmse": 0.0,
+      "maxAbs": 0.0,
+      "worst": {
+        "absoluteError": 0.0,
+        "position": 0,
+        "element": 0,
+        "baseline": -8.01857852935791,
+        "candidate": -8.01857852935791
+      },
+      "baselineReferenceCount": 242178,
+      "baselineReferenceRMSE": 0.007180513072335022,
+      "candidateReferenceCount": 242178,
+      "candidateReferenceRMSE": 0.007180513072335022,
+      "referenceRMSEChange": 0.0
+    },
+    "whiteOwnerMap": {
+      "count": 241509,
+      "finiteComparableCount": 241509,
+      "nonfinite": {
+        "baseline": 0,
+        "candidate": 0,
+        "reference": 0
+      },
+      "nonfiniteExamples": [],
+      "differentFloat32Count": 0,
+      "meanAbs": 0.0,
+      "meanSigned": 0.0,
+      "rmse": 0.0,
+      "maxAbs": 0.0,
+      "worst": {
+        "absoluteError": 0.0,
+        "position": 0,
+        "element": 0,
+        "baseline": 0.07965087890625,
+        "candidate": 0.07965087890625
+      },
+      "baselineReferenceCount": 241509,
+      "baselineReferenceRMSE": 0.001972628028888349,
+      "candidateReferenceCount": 241509,
+      "candidateReferenceRMSE": 0.001972628028888349,
+      "referenceRMSEChange": 0.0
+    }
+  },
+  "measurementValid": true
+}

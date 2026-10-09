@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "ubuntu": "22.04.5",
+  "gpu": "GeForce RTX 5090",
+  "driverUnchanged": "595.71.05",
+  "cuda": "13.2.86",
+  "cudnnRuntime": 92401,
+  "freshHostTested": false,
+  "testStartedWith": "Original image: CUDA 13.0, cuDNN 9.14; CUDA 13.2 absent",
+  "systemPackageInstallPassed": true,
+  "repeatInstallPassed": true,
+  "fullEnvironmentCheckPassed": true,
+  "runtimeCheckPassed": true,
+  "sourceCompilePassed": true,
+  "cutlassEnabled": true,
+  "prebuiltGtpPassed": true,
+  "rebuiltGtpPassed": true,
+  "quickAccuracyPassed": true,
+  "searchSmokePassed": true,
+  "driverInstallBranchTested": false,
+  "ubuntu2404Tested": false,
+  "scriptSha256": "155d08d4ce68248886d3144075a29af08fb2bb78140e2d60c9fe1ffc88276f60"
+}

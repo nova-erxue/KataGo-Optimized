@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "engineSha256": "8bfb3fe9f29a623d7f1a1c8782d31bc20eb80e401ba5104c98228541ee8dc1c5",
+  "versionOutput": "KataGo v1.18.2\nGit revision: <omitted>\nCompile Time: Oct  8 2026 21:33:18\nUsing CUDA backend\nCompiled with CUDA version 13.2.51\n",
+  "cudaBuildVersion": "13.2.51",
+  "cudnnRuntime": 92401,
+  "cutlassEnabled": false,
+  "rtx50InferenceTested": false,
+  "test": "Packaged Windows launcher version check with installed CUDA/cuDNN DLLs"
+}

@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "platform": "Ubuntu 22.04.5 x86_64",
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "driver": "595.71.05",
+  "installedCuda": "13.0.88",
+  "cudnnRuntime": 91400,
+  "binaryBuiltWithCuda": "13.2.86",
+  "engineSha256": "3586a04f81dfda0d6149824220c4fcfa169cfebdbab651a4f920058000133d21",
+  "modelSha256": "93bdb63a3bfae4a70db0cb5265287495ecfc10b1ba1cc6814feeba1cdf055871",
+  "bareExecutableDirectReplacement": false,
+  "bareExecutableFailure": "libzip.so.4 missing (exit 127)",
+  "bundledLibraryLauncherWorks": true,
+  "optimizationConfigGtpBoards": [
+    19,
+    9
+  ],
+  "nativeAccuracyQuickPassed": true,
+  "searchSmoke": {
+    "visits": 10000,
+    "threads": 48,
+    "batch": 16,
+    "positions": 4
+  },
+  "isolatedIkatagoInstallVerifyRestorePassed": true,
+  "originalIkatagoFilesUnchanged": true,
+  "systemPackagesInstalled": false,
+  "authenticatedServiceStarted": false
+}

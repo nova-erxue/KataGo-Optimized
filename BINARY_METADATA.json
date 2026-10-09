@@ -1,0 +1,29 @@
+{
+  "project": "KataGo \u4f18\u5316\u7248\u5f15\u64ce",
+  "repositoryName": "KataGo-Optimized",
+  "release": "v1.18.2-sm120.1",
+  "date": "2026-10-08",
+  "baseVersion": "KataGo 1.18.2",
+  "originalSourceArchiveSha256": "23ab524c919abef94be139fe91a8dfc30dc4ec75ff4d9f5bf4eff4678f45a52d",
+  "devicePolicy": "compute capability 12.0 (SM120); no product-name restriction",
+  "linux": {
+    "sha256": "4d8d1556558fdb2ac7abc5eee7c777619697f46c1e2985d70f959f52806b2f06",
+    "cuda": "13.2.86",
+    "cudnn": "9.24.1",
+    "cutlass": true,
+    "minimumGlibc": "2.34",
+    "requiredGlibcxx": "3.4.30"
+  },
+  "windows": {
+    "sha256": "8bfb3fe9f29a623d7f1a1c8782d31bc20eb80e401ba5104c98228541ee8dc1c5",
+    "cuda": "13.2.51",
+    "cudnn": "9.24.1",
+    "cutlass": false
+  },
+  "libzip": {
+    "ubuntuPackage": "libzip4_1.7.3-1ubuntu2_amd64.deb",
+    "url": "https://archive.ubuntu.com/ubuntu/pool/universe/libz/libzip/libzip4_1.7.3-1ubuntu2_amd64.deb",
+    "packageSha256": "e129c629f11c1c6b6b8886a3562a56461e4972878c8d859a10cb8d05a08213e9",
+    "librarySha256": "05746c16c79c34f3b408c5a6a5ddf9bd18e61c1cfd35f587e215ea37f23fe4ad"
+  }
+}
